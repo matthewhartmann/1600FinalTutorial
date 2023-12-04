@@ -14,7 +14,7 @@ This tutorial is suitable for beginners who want to learn the basics of Git, Git
 
 ## Table of Contents
 
-1. [Setting Up Your Repository](#setting-up-your-repository.md)
+1. [Setting Up Your Repository](setting-up-your-repository.md)
 2. [Create a Hello World Program](#create-a-hello-world-program.md)
 3. [Verify on GitHub](#verify-on-github)
 4. [Conclusion](#conclusion)
