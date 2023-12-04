@@ -19,4 +19,5 @@ print("Hello, World!").
 git add hello_world.py
 git commit -m "Add Hello World program in Python"
 git push origin main
-
+```
+Previous: [Setting Up Your Repository](setting-up-your-repository.md) Next: [Verify on GitHub](verify-on-github.md)
