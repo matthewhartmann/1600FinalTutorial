@@ -17,4 +17,4 @@
 
    ```bash
    git clone <paste-your-https-url>
-Previous: [Overview](readme.md) Next: [Create a Hello World Program](create-a-hello-world-program.md)
+Previous: [Overview](README.md) Next: [Create a Hello World Program](create-a-hello-world-program.md)
